@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37216.2 d17.14
+VisualStudioVersion = 17.14.37216.2
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_principles", "SOLID_principles\SOLID_principles.csproj", "{CBD91DCB-DA56-4EA6-8E15-00BE6B0F7047}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guess_number(SOLID_principles)", "SOLID_principles\Guess_number(SOLID_principles).csproj", "{CBD91DCB-DA56-4EA6-8E15-00BE6B0F7047}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
